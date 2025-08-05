@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BRAKE1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,BRK,
+DC1,XL6009E1,1,~,
+FRAM1,FRAM_MB85RC256V,1,~,
+GPS1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,Conn_01x04,
+INPUT1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,I2C_pwr,
+INPUT12V1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,BRK_PWR_IN,
+"LASER1, LASER_SW1",JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,2,Conn_01x02,
+MCP1,MCP23017_Module,1,~,
+XMIN1,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,XMin,
+X_HM1,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,X_Home,
+Y_HM1,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1,Y_Home,
