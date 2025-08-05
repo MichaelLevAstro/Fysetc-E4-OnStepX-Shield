@@ -5,7 +5,7 @@
 ## Added features
 - GPS through X-Min pin
 - MCP23017 IO expander for homing sensors using I2C
-- FRAM for persistant data
+- FRAM for persistent data
 - 5V Laser with Switch
 - 12v to 24v step up module for a Motor Brake using an XL6009 module
 
