@@ -63,3 +63,8 @@ In src\pinmaps\Pins.FYSETC_E4.h:
 <img width="1080" height="686" alt="E4ShieldConnections" src="https://github.com/user-attachments/assets/4b89f366-4621-4fe0-a8d4-e3c578e52410" />
 
 *note: X-Min connector in the shield is a 2 pin connector, you dont have to connect GND, you can connect only the X-Min.
+
+# Assembly
+I used M3 standoffs, and removed anything tall from the board, the original heatsinks for the motors drivers and the green power connectors.
+Had to make room to fit in my mount.
+![WhatsApp Image 2025-07-10 at 00 03 44_10ef709c](https://github.com/user-attachments/assets/f733699d-266a-4a80-9057-503a33c5eeda)
