@@ -52,6 +52,12 @@ In config.h
 #define SERIAL_GPS_BAUD 9600
 ```
 
+In src\pinmaps\Pins.FYSETC_E4.h:
+```
+// Needed for IO expander to work
+#define AXIS1_SENSE_HOME_PIN  GPIO_PIN(0)
+#define AXIS2_SENSE_HOME_PIN   GPIO_PIN(1)
+```
 
 # Connections
 <img width="1080" height="686" alt="E4ShieldConnections" src="https://github.com/user-attachments/assets/4b89f366-4621-4fe0-a8d4-e3c578e52410" />
